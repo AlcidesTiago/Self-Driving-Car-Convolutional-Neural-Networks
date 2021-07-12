@@ -15,13 +15,13 @@ assign importance (learnable weights and biases) to various aspects/objects in t
 
 Testing/Hartware etc:
 
-Path YTraining:
+Path Training (CNN):
 
 ![image](https://user-images.githubusercontent.com/38771916/125365185-68073d00-e391-11eb-9a0b-a3efa21a1f46.png)
 
 
 
-Object Detection|lane detectio|etc:
+Object Detection|lane line detection|etc:
 
 ![Path](https://user-images.githubusercontent.com/38771916/125366025-efa17b80-e392-11eb-9ca6-6d3eacb96706.JPG)
 
